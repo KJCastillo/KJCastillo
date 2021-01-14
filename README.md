@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![githubBanner](https://user-images.githubusercontent.com/51268894/104642028-7beb1400-5678-11eb-9d58-a030cb5b6e44.png)
+![githubBanner](https://user-images.githubusercontent.com/51268894/104642574-14819400-5679-11eb-9ee2-79c0f82ce142.png)
 
 <!--
 **KJCastillo/KJCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
