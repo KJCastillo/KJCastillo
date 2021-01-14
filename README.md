@@ -1,7 +1,12 @@
-### Hi there 👋
-
 ![githubBanner](https://user-images.githubusercontent.com/51268894/104642574-14819400-5679-11eb-9ee2-79c0f82ce142.png)
 
+### Hi there 👋
+
+I'm a developer with a serious passion for making functional and responsive websites with designs that help them come to life!
+
+<a href="https://www.linkedin.com/in/kevinjcastillo/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 <!--
 **KJCastillo/KJCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
