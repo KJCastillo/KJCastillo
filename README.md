@@ -4,7 +4,6 @@
 
 I'm a developer with a serious passion for making functional and responsive websites with designs that help them come to life!
 
-Get to know me more - -https://portfolio.kjcastillo.vercel.app
 
 <a href="https://www.linkedin.com/in/kevinjcastillo/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,4 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Get to know me more - -https://portfolio.kjcastillo.vercel.app
 -->
